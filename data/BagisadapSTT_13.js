@@ -1,0 +1,14 @@
+var json_BagisadapSTT_13 = {
+"type": "FeatureCollection",
+"name": "BagisadapSTT_13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1.0, "KODE": "Pompa Tarum Timur", "NAMA_BANGU": null, "X": 107.37966, "Y": -6.44669, "Q_DESAIN": null, "B_PINTU": null, "JL_PINTU": null, "L_AREA": null, "KONDISI": null, "TH_REHAB": null, "TYPE": null, "KET": null, "MAIN_INTAK": null }, "geometry": { "type": "Point", "coordinates": [ 107.379656999995404, -6.446690000000177 ] } },
+{ "type": "Feature", "properties": { "fid": 2.0, "KODE": "B.Tt.1", "NAMA_BANGU": "B.Sadap", "X": 107.38097, "Y": -6.44333, "Q_DESAIN": "0.178", "B_PINTU": "L=0.40, R=0.30", "JL_PINTU": "2", "L_AREA": "55", "KONDISI": null, "TH_REHAB": null, "TYPE": "R", "KET": null, "MAIN_INTAK": null }, "geometry": { "type": "Point", "coordinates": [ 107.380970999995398, -6.443330000000181 ] } },
+{ "type": "Feature", "properties": { "fid": 3.0, "KODE": "B.Tt.2", "NAMA_BANGU": "B.Sadap", "X": 107.3909, "Y": -6.43871, "Q_DESAIN": "0.126", "B_PINTU": "L=0.3, R=0.3", "JL_PINTU": "2", "L_AREA": "44", "KONDISI": null, "TH_REHAB": null, "TYPE": "R", "KET": null, "MAIN_INTAK": null }, "geometry": { "type": "Point", "coordinates": [ 107.390901999995265, -6.438706000000186 ] } },
+{ "type": "Feature", "properties": { "fid": 4.0, "KODE": "B.Tt.3", "NAMA_BANGU": "B.Bagi Sadap", "X": 107.3917, "Y": -6.4341, "Q_DESAIN": "0.415", "B_PINTU": "L1=0.3, L2=0.3, L3=0.3", "JL_PINTU": "3", "L_AREA": "235", "KONDISI": null, "TH_REHAB": null, "TYPE": "R", "KET": null, "MAIN_INTAK": null }, "geometry": { "type": "Point", "coordinates": [ 107.39169999999524, -6.434098000000178 ] } },
+{ "type": "Feature", "properties": { "fid": 5.0, "KODE": "B.Tt.4", "NAMA_BANGU": "B.Sadap", "X": 107.39458, "Y": -6.42327, "Q_DESAIN": "0.120", "B_PINTU": "0.4", "JL_PINTU": "1", "L_AREA": "38", "KONDISI": null, "TH_REHAB": null, "TYPE": "R", "KET": null, "MAIN_INTAK": null }, "geometry": { "type": "Point", "coordinates": [ 107.394577999995192, -6.423270000000184 ] } },
+{ "type": "Feature", "properties": { "fid": 6.0, "KODE": "B.Tt.5", "NAMA_BANGU": "B.Bagi Sadap", "X": 107.39929, "Y": -6.41743, "Q_DESAIN": "0.567", "B_PINTU": "L1=0.3, L2=1.0, L3=0.5, R=0.3", "JL_PINTU": "4", "L_AREA": "316", "KONDISI": null, "TH_REHAB": null, "TYPE": "R", "KET": null, "MAIN_INTAK": null }, "geometry": { "type": "Point", "coordinates": [ 107.399284999995132, -6.417432000000187 ] } },
+{ "type": "Feature", "properties": { "fid": 7.0, "KODE": "B.Tt.6", "NAMA_BANGU": "B.Sadap", "X": 107.40015, "Y": -6.40932, "Q_DESAIN": "0.345", "B_PINTU": "L1=0.6, L2=0.5", "JL_PINTU": "2", "L_AREA": "137", "KONDISI": null, "TH_REHAB": null, "TYPE": "R", "KET": null, "MAIN_INTAK": null }, "geometry": { "type": "Point", "coordinates": [ 107.400149999995108, -6.409315000000178 ] } }
+]
+}
